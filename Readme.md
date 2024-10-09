@@ -26,3 +26,18 @@ First, clone my repository from GitHub:
 ```bash
 git clone https://github.com/ahmadh-git/book.git
 cd book
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\activate
+
+# Install the requirements
+pip install -r requirements.txt
+
+# To finish or complete your virtual environment
+run "deactivate"
+
+# Output
+Data will be output in the data file folder
