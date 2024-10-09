@@ -40,4 +40,4 @@ pip install -r requirements.txt
 run "deactivate"
 
 # Output
-Data will be output in the data file folder
+Books will be output in the data file folder and images will be stored in the /data/img directory
